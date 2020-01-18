@@ -1,0 +1,19 @@
+{
+  "name": "vuetify-fa-svg",
+  "version": "1.0.0",
+  "description": "Trying to get FA5 svg icons working with vuetify",
+  "author": "Tim Court",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
